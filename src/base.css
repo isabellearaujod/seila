@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+@import "tailwindcss";
+
+:root {
+  --cor-cabecalho: linear-gradient(
+    90deg,
+    #7079ffb7,
+    #0dc2feb7,
+    #458fffbe,
+    #09a9ffd0
+  );
+  --cor-background: #f0f4f5;
+  --cor-bck-inicial: #0400ff28;
+  --cor-bck-conteudo: linear-gradient(90deg, #7c67f2f5, #09a9ffe6);
+  --cor-sombra: rgba(0, 0, 0, 0.187);
+  --cor-titulo01: #232425cb;
+  --cor-subtitulo01: rgba(0, 0, 0, 0.553);
+  --cor-subtitulo02: rgba(255, 255, 255, 0.9);
+  --cor-textorgb: #ffffff25;
+  --cor-texto: #1b1c1d;
+  --cor-texto02: #458fff55;
+  --cor-branco: #ffffff;
+  --cor-preto: #000000;
+  --cor-botao01: #707aff;
+  --cor-botao02: #096fffe6;
+  --cor-chatbot: #2e09ff91;
+  --cor-linha: #cfd1d5;
+  --cor-rodape: linear-gradient(90deg, #3238f6d0, #1a83f9, #0aaafa, #275df7);
+
+  --cor-cor01: #4f46e5;
+  --cor-cor02: linear-gradient(135deg, #4f46e5, #7c3aed);
+  --cor-cor03: #64748b;
+  --cor-cor04: rgba(79, 70, 229, 0.3);
+  --cor-cor05: #b3ccb4af;
+  --cor-cor06: #fccc7a68;
+  --cor-cor07: #2f7d4a;
+  --cor-cor08: #e2a200;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
