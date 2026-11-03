@@ -274,7 +274,7 @@ npm run dev
 
 - **Repositório GitHub:** [SoulUp X DevMode](https://github.com/isabellearaujod/SoulUp_DevMode-1TDSPY)
 - **Vídeo de apresentação:** https://youtu.be/krvKeMdWC6k
-- **Projeto publicado:** (https://soul-up-dev-mode-1-tdspy.vercel.app/)
+- **Projeto publicado:** https://soul-up-dev-mode-1-tdspy.vercel.app/
 
 ---
 
