@@ -15,7 +15,6 @@ import Missao from "./pages/Missao/index.tsx";
 import Login from "./pages/Login/index.tsx";
 import Cadastro from "./pages/Cadastro/index.tsx";
 
-// cria todas as rotas
 const router = createBrowserRouter([
 
   // fica fora do App tsx, não aparece cabeçalho, rodapé ou chatbot
