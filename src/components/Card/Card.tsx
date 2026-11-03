@@ -2,7 +2,7 @@ import type { ReactNode } from "react";
 
 interface CardProps {
   titulo: string;
-  texto: string;
+  texto?: ReactNode;
   descricao: string;
   icone?: ReactNode;
   children?: ReactNode;

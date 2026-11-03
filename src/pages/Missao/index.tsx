@@ -14,7 +14,7 @@ import CardMissoes from "../../components/CardMissoes/CardMissoes";
 import BotaoEvolucao from "../../components/BotaoEvolucao/BotaoEvolucao";
 import CardAtividades from "../../components/CardAtividades/CardAtividades";
 import OliHero from "../../components/OliHero/OliHero";
-import CabecalhoPagina from "../../components/CabecalhoPagina/CabecalhoPagina";
+import Card from "../../components/Card/Card";
 
 export default function Missao() {
  
@@ -116,7 +116,7 @@ export default function Missao() {
       className="min-h-screen w-full bg-[var(--cor-background)]"
       aria-label="Página de missões do projeto SoulUp"
     >
-      <CabecalhoPagina
+      <Card
         titulo="Protótipo - Missões"
         descricao="Complete missões agora e acumule gotas!"
       />

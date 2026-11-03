@@ -45,8 +45,8 @@ export default function EvolucaoUsuario() {
         <OliHero
           nivel="Nível 4 de 8"
           fase="Estágio atual: Arbusto"
-          progressoLabel="12.450 / 16.000"
-          legendaFaltante="Faltam 3.550 gotas para virar Árvore"
+          progresso="12.450 / 16.000"
+          legenda="Faltam 3.550 gotas para virar Árvore"
           avatar={
             <img
               src={oliNivel4}
